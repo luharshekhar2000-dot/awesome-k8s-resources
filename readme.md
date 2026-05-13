@@ -197,7 +197,8 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[Thanos](https://github.com/thanos-io/thanos) :fire::fire::fire::fire::fire: - Thanos is a set of components that can be composed into a highly available metric system with unlimited storage capacity.
 - :green_heart:[K8Studio](https://github.com/guiqui/k8Studio) :fire::fire::fire: - K8Studio IDE to manage and visualise Kubernetes Clusters.
 - :green_heart:[KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) :fire: - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, and actual cluster state.
-
+- :green_heart:[Middleware](https://github.com/middleware-labs/mw-agent) :fire: - Middleware allows you to proactively monitor your entire K8 cluster, correlating logs, metrics and traces.
+  
 ### Backup and Restore
 - :green_heart:[katafygio](https://github.com/bpineau/katafygio) :fire: - katafygio discovers Kubernetes objects (deployments, services, ...), and continuously save them as yaml files in a git repository.
 - :green_heart:[Velero](https://github.com/vmware-tanzu/velero) :fire::fire::fire::fire::fire: - Velero (formerly Heptio Ark) gives you tools to back up and restore your Kubernetes cluster resources and persistent volumes.
@@ -308,6 +309,7 @@ Items with :green_heart: indicate open source projects.
 - [Scaling Kubernetes to 2,500 Nodes](https://openai.com/blog/scaling-kubernetes-to-2500-nodes/) + [Scaling Kubernetes to 7,500 Nodes](https://openai.com/blog/scaling-kubernetes-to-7500-nodes/) - Issues you will encounter when running high-scale Kubernetes workloads.
 - [Service Mesh Comparison](https://servicemesh.es/) - An easy compensation to help choose one of the service Mesh implementations.  
 - [ArgoCD Best Practices](https://datree.io/resources/argocd-best-practices-you-should-know)
+- [Common Kubernetes Errors & How to Fix Them](https://middleware.io/blog/kubernetes-common-errors-fix/) - A detailed article on common kubernetes errors with step by step process on how to fix them.
 
 ### Learnings and Documentations
 - [A Beginner’s Guide to Kubernetes](https://medium.com/containermind/a-beginners-guide-to-kubernetes-7e8ca56420b6) - A comprehensive introduction to Kubernetes architecture
